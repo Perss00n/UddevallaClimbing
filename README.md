@@ -1,20 +1,20 @@
-# Uddevalla Klätterbutik API - Backend Skolprojekt
+# Uddevalla Climbing Store API - Backend School Project
 
-Detta projekt är en del av min utbildning i backend-utveckling. Målet med detta projekt var att skapa ett API för att hantera kunder, produkter och ordrar för en fiktiv klätterbutik. Applikationen är byggd som en konsolapplikation där användaren kan skapa, uppdatera, visa, radera och hämta information om kunder, produkter och ordrar via interaktiva menyer.
+This project is part of my education in backend development. The goal of this project was to create an API to manage customers, products, and orders for a fictional climbing store. The application is built as a console application where users can create, update, view, delete, and retrieve information about customers, products, and orders through interactive menus.
 
-Projektet är en del av min resa att bli backend-utvecklare och inkluderar användning av C# och SQL för databasinteraktion.
+This project is part of my journey to becoming a backend developer and includes the use of C# and SQL for database interaction.
 
-## Funktioner
+## Features
 
-- **Kundhantering**
-  - Skapa, uppdatera, visa, radera och hämta kundinformation.
-- **Produkt hantering**
-  - Lägg till, uppdatera, visa, radera och hämta produktinformation.
-- **Orderhantering**
-  - Lägg till, uppdatera, visa, radera och hämta orderinformation.
-- **Databasinteraktion**
-  - Använder SQL för att lagra och hämta data relaterad till kunder, produkter och ordrar.
-- **Felhantering**
-  - Hantering av ogiltig inmatning och databasfel.
-- **Interaktiv meny**
-  - En menydriven användargränssnitt som gör det möjligt för användare att välja mellan olika alternativ för att hantera kunder, produkter och ordrar.
+- **Customer Management**
+  - Create, update, view, delete, and retrieve customer information.
+- **Product Management**
+  - Add, update, view, delete, and retrieve product information.
+- **Order Management**
+  - Add, update, view, delete, and retrieve order information.
+- **Database Interaction**
+  - Uses SQL to store and retrieve data related to customers, products, and orders.
+- **Error Handling**
+  - Handles invalid input and database errors.
+- **Interactive Menu**
+  - A menu-driven user interface that allows users to choose between different options to manage customers, products, and orders.
